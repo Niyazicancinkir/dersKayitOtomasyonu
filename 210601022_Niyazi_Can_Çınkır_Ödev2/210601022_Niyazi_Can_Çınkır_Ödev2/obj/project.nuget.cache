@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ATpBwZRKu9++lBeOWq7TImbuiywnuIToJyGn8ntaSdY8DDsDESodqy1UrM6ydXp0mYgk3IYT2UnBREpFQ9chhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\2.1\\nesne prog\\210601022_Niyazi_Can_Çınkır_Ödev2\\210601022_Niyazi_Can_Çınkır_Ödev2\\210601022_Niyazi_Can_Çınkır_Ödev2\\210601022_Niyazi_Can_Çınkır_Ödev2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
